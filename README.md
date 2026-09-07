@@ -1,9 +1,9 @@
 # Hi there, I'm Arthur! 👋
 
-🎓 **Computer Engineering Student @ UFS**
+ **Computer Engineering Student @ UFS**
 
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,7 +29,7 @@
 
 ---
 
-### 🚀 Featured Project
+###  Featured Project
 
 **[👁️💧 Surveil the Bulk](https://github.com/ArthurSVieira/surveil-the-bulk)**  
 An asynchronous RESTful API built for managing Magic: The Gathering collections and decks.
