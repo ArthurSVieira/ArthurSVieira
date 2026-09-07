@@ -31,7 +31,7 @@
 
 ### 🚀 Featured Project
 
-**[👁️💧 Surveil the Bulk](https://github.com/SEU_USUARIO/surveil-the-bulk)**  
+**[👁️💧 Surveil the Bulk](https://github.com/ArthurSVieira/surveil-the-bulk)**  
 An asynchronous RESTful API built for managing Magic: The Gathering collections and decks.
 - **The Architecture:** Built with *Clean Architecture* principles. Features strong data validation with `Pydantic V2`, high-performance routing via `FastAPI`, and a normalized 1:N relational database using `SQLite`.
 - **Integrations:** Automated data fetching and synchronization with the Scryfall public API.
