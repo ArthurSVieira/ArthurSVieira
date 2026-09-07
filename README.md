@@ -33,14 +33,11 @@
 
 **[👁️💧 Surveil the Bulk](https://github.com/ArthurSVieira/surveil-the-bulk)**  
 An asynchronous RESTful API built for managing Magic: The Gathering collections and decks.
-- **The Architecture:** Built with *Clean Architecture* principles. Features strong data validation with `Pydantic V2`, high-performance routing via `FastAPI`, and a normalized 1:N relational database using `SQLite`.
-- **Integrations:** Automated data fetching and synchronization with the Scryfall public API.
-- **Reliability:** Fully typed, equipped with an automated E2E testing suite (`pytest`), and interactive OpenAPI documentation (Swagger UI).
 
 ---
 
 ### 📫 Let's Connect!
-I'm always open to discussing games or new opportunities.
+I'm always open to discussing Megami Tensei games, Magic The Gathering or new opportunities.
 - **LinkedIn:** [linkedin.com/in/arthur-soares-vieira](https://linkedin.com/in/arthur-soares-vieira)
 - **Email:** [arthurssivieira@gmail.com](mailto:arthurssivieira@gmail.com)
 
