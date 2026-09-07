@@ -40,15 +40,8 @@ An asynchronous RESTful API built for managing Magic: The Gathering collections 
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurSVieira&show_icons=true&theme=radical" alt="Arthur's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSVieira&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
----
-
 ### 📫 Let's Connect!
-I'm always open to discussing Software Engineering, Backend Architecture, or new opportunities.
+I'm always open to discussing games or new opportunities.
 - **LinkedIn:** [linkedin.com/in/arthur-soares-vieira](https://linkedin.com/in/arthur-soares-vieira)
 - **Email:** [arthurssivieira@gmail.com](mailto:arthurssivieira@gmail.com)
 
