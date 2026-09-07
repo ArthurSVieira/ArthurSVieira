@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Arthur! 👋
 
-<!--
-**ArthurSVieira/ArthurSVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student @ UFS**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+**Languages**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Backend & Frameworks**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Project
+
+**[👁️💧 Surveil the Bulk](https://github.com/SEU_USUARIO/surveil-the-bulk)**  
+An asynchronous RESTful API built for managing Magic: The Gathering collections and decks.
+- **The Architecture:** Built with *Clean Architecture* principles. Features strong data validation with `Pydantic V2`, high-performance routing via `FastAPI`, and a normalized 1:N relational database using `SQLite`.
+- **Integrations:** Automated data fetching and synchronization with the Scryfall public API.
+- **Reliability:** Fully typed, equipped with an automated E2E testing suite (`pytest`), and interactive OpenAPI documentation (Swagger UI).
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurSVieira&show_icons=true&theme=radical" alt="Arthur's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSVieira&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+I'm always open to discussing Software Engineering, Backend Architecture, or new opportunities.
+- **LinkedIn:** [linkedin.com/in/arthur-soares-vieira](https://linkedin.com/in/arthur-soares-vieira)
+- **Email:** [arthurssivieira@gmail.com](mailto:arthurssivieira@gmail.com)
+
+*"It's a beautiful life! Don't you ever lose that smile, baby!"*
