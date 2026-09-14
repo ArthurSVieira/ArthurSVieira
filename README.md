@@ -1,4 +1,4 @@
-# Hi there, I'm Arthur! 👋
+# Hello, I'm Arthur.
 
  **Computer Engineering Student @ UFS**
 
@@ -32,7 +32,7 @@
 
 ###  Featured Project
 
-**[👁️💧 Surveil the Bulk](https://github.com/ArthurSVieira/surveil-the-bulk)**  
+**[Surveil the Bulk](https://github.com/ArthurSVieira/surveil-the-bulk)**  
 An asynchronous RESTful API built for managing Magic: The Gathering collections and decks.
 
 ---
