@@ -36,8 +36,6 @@
 An asynchronous RESTful API built for managing Magic: The Gathering collections and decks.
 
 ---
-
-### Let's Connect!
 I'm always open to discussing Megami Tensei games, Magic The Gathering or new opportunities.
 - **LinkedIn:** [linkedin.com/in/arthur-soares-vieira](https://linkedin.com/in/arthur-soares-vieira)
 - **Email:** [arthurssivieira@gmail.com](mailto:arthurssivieira@gmail.com)
